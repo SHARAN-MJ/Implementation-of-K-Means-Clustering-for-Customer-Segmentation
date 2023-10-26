@@ -69,12 +69,17 @@ plt.title("Customer Segmets")
 
 ## Output:
 ![Screenshot 2023-10-26 091920](https://github.com/SHARAN-MJ/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119560305/e8f246bf-63bc-4ab1-b168-c5e2a85afdc0)
+
 ![Screenshot 2023-10-26 091931](https://github.com/SHARAN-MJ/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119560305/3a5fdc44-f974-478c-9311-b005fff9b4c1)
+
 ![Screenshot 2023-10-26 091939](https://github.com/SHARAN-MJ/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119560305/865bea15-918e-45d0-b0fc-ef778270122e)
+
 ![Screenshot 2023-10-26 091955](https://github.com/SHARAN-MJ/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119560305/c767f326-b01b-47f3-8225-234082c1002a)
 
 ![Screenshot 2023-10-26 092053](https://github.com/SHARAN-MJ/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119560305/b7428319-a32e-4e97-b1ec-da7f87ae4b4d)
+
 ![Screenshot 2023-10-26 092040](https://github.com/SHARAN-MJ/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119560305/9ed9835f-213a-4136-8fb5-ec60a5196f96)
+
 ![Screenshot 2023-10-26 092114](https://github.com/SHARAN-MJ/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119560305/778bff40-90e3-40a0-b5db-67bf8d43467d)
 
 ![Screenshot 2023-10-26 092122](https://github.com/SHARAN-MJ/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119560305/1ce5ec4e-3562-480e-b16f-e16f2dfbcef2)
